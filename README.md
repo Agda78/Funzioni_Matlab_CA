@@ -6,7 +6,7 @@ eventuali push da parte della community.
 # DESCRIZIONE FUNZIONI
 # ReteAnticipatrice # 
 Implementazione delle funzioni di calcolo di m e om_tau per le rete anticipatrici
-//Struttura e utilizzo:
+\\Struttura e utilizzo:
 //[m, om_tau] = ReteAttenuatrice(M, delta_phi);
 
 # ReteAttenuatrice #
