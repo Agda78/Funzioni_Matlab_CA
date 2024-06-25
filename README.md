@@ -7,7 +7,7 @@ eventuali push da parte della community.
 # ReteAnticipatrice # 
 Implementazione delle funzioni di calcolo di m e om_tau per le rete anticipatrici  
 Struttura e utilizzo:  
-[m, om_tau] = ReteAttenuatrice(M, delta_phi);
+[m, om_tau] = ReteAnticipatrice(M, delta_phi);
 
 # ReteAttenuatrice #
 Implementazione delle funzioni di calcolo di m e om_tau per le reti Attenuatruci  
