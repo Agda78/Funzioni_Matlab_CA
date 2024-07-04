@@ -20,10 +20,6 @@ Calcolo della banda di una funzione di trasferimento in maniera brute force
 Struttura e utilizzo:  
 banda_discreta(D,omc); % si preferisce dare omc, poichè è un punto di partenza per la funzione che non dovrà provare tutti i valori da 0
 
-# imposta_loop_shaping
-Permette di impostare un esercizio in cui si vuole utilizzare il loop shaping  
-Ne sconsiglio l'utilizzo poichè sono solo calcoli semplici, per lo più non è nemmeno finita
-
 # sovraelongPerc
 Calcolo della zita a partire dalla percentuale di sovraelongazione desiderata  
 Struttura e utilizzo:  
