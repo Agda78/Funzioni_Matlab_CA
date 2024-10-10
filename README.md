@@ -25,6 +25,11 @@ Calcolo della banda di una funzione di trasferimento in maniera brute force
 Struttura e utilizzo:  
 banda_discreta(D, omc); % si preferisce dare omc, poichè è un punto di partenza per la funzione che non dovrà provare tutti i valori da 0
 
+# banda_discreta_generale(D, omc) #
+E' identica nel funzionamento rispetto a banda_discreta.
+Oltretutto è un pò più imprecisa, ma permette di poter essere utilizzata con tutte le tipologie di passa basso e non solo per funzioni
+che hanno come valore in db di riferimento 0
+
 # sovraelongPerc(percentuale) #
 Calcolo della zita a partire dalla percentuale di sovraelongazione desiderata  
 Struttura e utilizzo:  
